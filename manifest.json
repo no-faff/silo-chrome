@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Open with Silo",
+  "version": "1.0",
+  "description": "Open links in other browsers using Silo",
+  "permissions": [
+    "contextMenus",
+    "nativeMessaging"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icons/silo-48.png",
+    "128": "icons/silo-128.png"
+  }
+}

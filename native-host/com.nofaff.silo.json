@@ -1,0 +1,7 @@
+{
+  "name": "com.nofaff.silo",
+  "description": "Open links with Silo browser picker",
+  "path": "/home/fred/projects/silo-chrome-extension/native-host/silo-host.py",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://EXTENSION_ID_HERE/"]
+}
